@@ -5,13 +5,35 @@
   "author": "ONE",
   "cover": "https://upload.wikimedia.org/wikipedia/en/c/c3/OnePunchMan_manga_cover.png",
   "chapters": {
-    "134": {
+    "134.1": {
       "title": "TWIST",
       "volume": "",
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/jxK8RtK/",
+      },
+      "last_updated": "1616368746"
+    },
+    "134.2": {
+      "title": "TWIST",
+      "volume": "",
+      "groups": {
         "imgur2": "/proxy/api/imgur/chapter/0aJ6E5c/",
+      },
+      "last_updated": "1616368746"
+    },
+    "134.3": {
+      "title": "TWIST",
+      "volume": "",
+      "groups": {
         "imgur3": "/proxy/api/imgur/chapter/rseZzKT/",
+      },
+      "last_updated": "1616368746"
+    },
+    "135": {
+      "title": "DISGRACE AND FUNDAMENTALS",
+      "volume": "",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/QhQijGx/"
       },
       "last_updated": "1616368746"
     },
