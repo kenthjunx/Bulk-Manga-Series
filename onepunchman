@@ -5,11 +5,11 @@
   "author": "ONE",
   "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "139": {
+      "title": "ABYSS",
+      "volume": "3",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/AIRPpma/"
+        "<GoodSirScanlations>": "/proxy/api/imgur/chapter/AIRPpma/"
       }
       "last_updated": "1616368746"
     },
