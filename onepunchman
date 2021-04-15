@@ -5,11 +5,21 @@
   "author": "ONE",
   "cover": "https://upload.wikimedia.org/wikipedia/en/c/c3/OnePunchMan_manga_cover.png",
   "chapters": {
+    "134": {
+      "title": "TWIST",
+      "volume": "",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/jxK8RtK/",
+        "imgur2": "/proxy/api/imgur/chapter/0aJ6E5c/",
+        "imgur3": "/proxy/api/imgur/chapter/rseZzKT/",
+      },
+      "last_updated": "1616368746"
+    },
     "136": {
       "title": "INDOMITABILITY",
       "volume": "",
       "groups": {
-        "GoodSirScanlations": "/proxy/api/imgur/chapter/S2fqt9O/"
+        "imgur": "/proxy/api/imgur/chapter/S2fqt9O/"
       },
       "last_updated": "1616368746"
     },
@@ -17,7 +27,7 @@
       "title": "RESONANCE",
       "volume": "",
       "groups": {
-        "GoodSirScanlations": "/proxy/api/imgur/chapter/mR8PMG1/"
+        "imgur": "/proxy/api/imgur/chapter/mR8PMG1/"
       },
       "last_updated": "1616368746"
     },
@@ -25,7 +35,7 @@
       "title": "INTO THE ABYSS",
       "volume": "",
       "groups": {
-        "GoodSirScanlations": "/proxy/api/imgur/chapter/zZd2NhM/"
+        "imgur": "/proxy/api/imgur/chapter/zZd2NhM/"
       },
       "last_updated": "1616368746"
     },
@@ -33,7 +43,7 @@
       "title": "ABYSS",
       "volume": "",
       "groups": {
-        "GoodSirScanlations": "/proxy/api/imgur/chapter/AIRPpma/"
+        "imgur": "/proxy/api/imgur/chapter/AIRPpma/"
       },
       "last_updated": "1616368746"
     }
